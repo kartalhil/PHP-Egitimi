@@ -69,6 +69,7 @@ Transaction, daha küçük parçalara ayrılamayan en küçük işlem yığını
 
 
 ## Örnek Veritabanı Tasarımı - 1
+Kitap ödünç alma örneği
 
 ![](https://www.herturbilgi.com/wp-content/uploads/2015/03/iliskisel-model.png)
 
