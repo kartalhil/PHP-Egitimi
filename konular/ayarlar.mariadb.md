@@ -22,7 +22,7 @@ OK, successfully used password, moving on...
 Setting the root password ensures that nobody can log into the MariaDB
 root user without the proper authorisation.
 
-Set root password? [Y/n] **ENTER BASINIZ**
+Set root password? [Y/n] **ENTER BASINIZ**  //y ye basınız yeni şifre belirleyiniz(Access hatası düzeltimi)
 
 New password: **YENİ PAROLA GİRİNİZ**
 
